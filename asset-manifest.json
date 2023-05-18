@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/manage-landing-page/static/css/main.e887a572.css",
+    "main.js": "/manage-landing-page/static/js/main.f1439e91.js",
+    "static/media/avatar-ali.png": "/manage-landing-page/static/media/avatar-ali.88f9155cb730934f4d7c.png",
+    "static/media/avatar-shanai.png": "/manage-landing-page/static/media/avatar-shanai.4bbe2f95e8975736fbd8.png",
+    "static/media/illustration-intro.svg": "/manage-landing-page/static/media/illustration-intro.cb9a8a9551ca99f99a125230d38a2c36.svg",
+    "static/media/avatar-anisha.png": "/manage-landing-page/static/media/avatar-anisha.484e15bc92ce6a0106ab.png",
+    "static/media/avatar-richard.png": "/manage-landing-page/static/media/avatar-richard.ace8e0892f67a50c1e9e.png",
+    "static/media/logo.svg": "/manage-landing-page/static/media/logo.66a576108be35c08eb2ca3e40c17d151.svg",
+    "static/media/logoWhite.svg": "/manage-landing-page/static/media/logoWhite.0333ac69cac043a66a9783f49e6e1077.svg",
+    "static/media/slick.svg": "/manage-landing-page/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/manage-landing-page/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/manage-landing-page/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/manage-landing-page/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/manage-landing-page/index.html",
+    "static/media/bg-simplify-section-desktop.svg": "/manage-landing-page/static/media/bg-simplify-section-desktop.ca40c1eebd150b1cc7dc266ce0b13d87.svg",
+    "static/media/icon-close.svg": "/manage-landing-page/static/media/icon-close.d5ba0dc53461cfc81979638f3b9fcf2e.svg",
+    "static/media/bg-simplify-section-mobile.svg": "/manage-landing-page/static/media/bg-simplify-section-mobile.a79c8471fa284189552dc8b07030c53d.svg",
+    "static/media/bg-tablet-pattern.svg": "/manage-landing-page/static/media/bg-tablet-pattern.b6990a984c7bcc142d3e9783736e996a.svg",
+    "static/media/icon-hamburger.svg": "/manage-landing-page/static/media/icon-hamburger.8dcf47cc6f3180ad040f1173f3592504.svg",
+    "main.e887a572.css.map": "/manage-landing-page/static/css/main.e887a572.css.map",
+    "main.f1439e91.js.map": "/manage-landing-page/static/js/main.f1439e91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e887a572.css",
+    "static/js/main.f1439e91.js"
+  ]
+}
